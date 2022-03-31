@@ -1,6 +1,4 @@
 # Resources for Making Dapps on Celo 💫
-Made to support hackers at Node's [Berkeley Blockchain Hackathon](https://thenode.fi/hackathon). Have a resource you want us to add? Make a PR.
-
 
 
 ## **🌐  Celo Blockchain**
@@ -204,3 +202,7 @@ Tools:
 [Simplex](https://www.simplex.com/) - a global cash-in/out rail that supports most Celo assets and most FIAT currencies.
 
 -   [Documentation](https://integrations.simplex.com/wallet-api-integration)
+
+# Thank you
+
+Special thanks to @0xHuman and the Node team for putting together this resource for Node's [Berkeley Blockchain Hackathon](https://thenode.fi/hackathon).
